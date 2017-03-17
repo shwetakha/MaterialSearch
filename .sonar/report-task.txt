@@ -1,0 +1,5 @@
+projectKey=MaterialSearchBar_Android_Demo
+serverUrl=http://172.27.59.116:9000
+dashboardUrl=http://172.27.59.116:9000/dashboard/index/MaterialSearchBar_Android_Demo
+ceTaskId=AVrWuycDSMkv6GwrR99j
+ceTaskUrl=http://172.27.59.116:9000/api/ce/task?id=AVrWuycDSMkv6GwrR99j
